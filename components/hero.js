@@ -9,7 +9,7 @@ export function Hero() {
 
       <!-- Content -->
       <div class="relative z-10 text-center px-6 max-w-3xl">
-        <h2 class="text-4xl md:text-5xl font-bold mb-6">
+        <h2 class="text-4xl md:text-5xl font-bold mt-20 mb-6">
           Let's Get Your Brand Performing Beyond Expectations
         </h2>
         <p class="text-lg md:text-xl mb-8 opacity-90">
