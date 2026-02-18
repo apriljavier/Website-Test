@@ -13,6 +13,16 @@ export function Footer() {
           <div style="font-size: 0.7rem; color: #aaaaaa; letter-spacing: 0.15em; text-transform: uppercase; margin-top: 6px;">
             A TEAM OF EXPERIENCED FILIPINO VIRTUAL ASSISTANTS
           </div>
+          <hr class="my-8 border-gray-300">
+          <div style="font-size: 0.7rem; color: #aaaaaa; letter-spacing: 0.15em; text-transform: uppercase; margin-top: 6px;">
+            info@infinity-web-solutions.com
+          </div>
+          <div style="font-size: 0.7rem; color: #aaaaaa; letter-spacing: 0.15em; text-transform: uppercase; margin-top: 10px;">
+            +63 915 372 5918
+          </div>
+          <div style="font-size: 0.7rem; color: #aaaaaa; letter-spacing: 0.15em; text-transform: uppercase; margin-top: 10px;">
+            San Jose, Batangas
+          </div>
         </div>
 
         <!-- Spacer to push nav columns to the right -->
@@ -24,7 +34,6 @@ export function Footer() {
             <li>QUICK LINKS</li>
             <li><a href="#about" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">About Us</a></li>
             <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Contact</a></li>
-            <li><a href="#plans" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Plans and Pricing</a></li>
             <li><a href="#/explore" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Explore Our Services</a></li>
             <li><a href="#" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Get Quote</a></li>
           </ul>
@@ -34,18 +43,18 @@ export function Footer() {
         <div style="flex: 0 0 auto; min-width: 120px;">
           <ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 14px;">
             <li>OUR SERVICES</li>
-            <li><a href="#" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Search Engine Optimization</a></li>
-            <li><a href="#" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Search Engine Marketing</a></li>
-            <li><a href="#" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Social Media Marketing</a></li>
-            <li><a href="#" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Email Marketing</a></li>
-            <li><a href="#" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Content Writing</a></li>
-            <li><a href="#" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Video Creation and Marketing</a></li>
-            <li><a href="#" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Customer Service and Support</a></li>
-            <li><a href="#" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Virtual Assistance</a></li>
-            <li><a href="#" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Outsourcing - White Label</a></li>
-            <li><a href="#" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Web Development and Design</a></li>
-            <li><a href="#" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Graphic Design</a></li>
-            <li><a href="#" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">E-commerce Development and Management</a></li>
+            <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Search Engine Optimization</a></li>
+            <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Search Engine Marketing</a></li>
+            <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Social Media Marketing</a></li>
+            <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Email Marketing</a></li>
+            <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Content Writing</a></li>
+            <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Video Creation and Marketing</a></li>
+            <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Customer Service and Support</a></li>
+            <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Virtual Assistance</a></li>
+            <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Outsourcing - White Label</a></li>
+            <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Web Development and Design</a></li>
+            <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Graphic Design</a></li>
+            <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">E-commerce Development and Management</a></li>
           </ul>
         </div>
 

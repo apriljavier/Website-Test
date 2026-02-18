@@ -46,7 +46,7 @@ export function Explore() {
               style="background-image: url('assets/images/bg-3.jpg');">
             </div>
             <p class="mt-4 text-gray-600">
-              <a href="#/explore"
+              <a href="#contact"
                 class="inline-block bg-sky-600 hover:bg-sky-700 px-8 py-3 rounded-lg text-white font-semibold transition duration-300">
                   Get Quote
               </a>
