@@ -35,7 +35,7 @@ export function Footer() {
             <li><a href="#about" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">About Us</a></li>
             <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Contact</a></li>
             <li><a href="#/explore" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Explore Our Services</a></li>
-            <li><a href="#" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Get Quote</a></li>
+            <li><a href="#contact" style="color: #cccccc; text-decoration: none; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Get Quote</a></li>
           </ul>
         </div>
 
